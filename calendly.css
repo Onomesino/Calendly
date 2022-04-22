@@ -1,0 +1,247 @@
+    .nav.bar{
+    display: flex;
+    font-weight: 200px;
+    color: black;
+    background-color: red;
+    border: 2px;
+    }
+
+    /* .row{
+        margin: 7px;
+        font-size: xx-large;
+
+    } */
+
+    .p-tag{
+        font-size:large ;
+    }
+
+    #middle{
+        background-color:whitesmoke;
+        height: 180px;
+        width: 100%;
+        text-align: center;
+        border: 10px;
+        margin-bottom: 95px;
+    }
+
+    /* .left{
+        text-align: right;
+    } */
+
+    .bolt {
+    display: inline-flex;
+    }
+
+    .navbar{
+    background-color: white;
+    border: 0px;
+    padding: 0px 5px 5px 5px;
+
+    }
+    .big{
+    font-size: 50px;
+     font-style: normal;
+     margin-left: 35px;
+    }
+
+    .other{
+    font-size: 50px;
+    color: blue;
+    margin-left: 35px;
+    }
+
+    .same{
+    padding-top: 13px;
+    padding-left: 30px;
+    font-size: 20px;
+    margin: 13px;
+    color: black;
+    }
+
+    .rigth{
+   display: flex;
+   float: right;
+    }
+
+    .inside-form{
+    position: absolute;
+    padding-top: 40px;
+    padding: 30px;
+    width: 355px;
+    height: 75px;
+    box-shadow: 0px 0px 4px 1px gray;
+    margin-top: 450px;
+    margin-left: 45px; ;
+    border: 0px;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    background:#fff;
+    }
+
+    .grand{
+    position: absolute;
+    width: 160px;
+    height: 80px;
+    margin-top: 447px;
+    margin-left: 300px;
+    padding: 27px;
+    border: 0px;
+    border-radius: 300px;
+    background-color: black;
+    color: #fff;
+    }
+
+    .p{
+    padding-left: 50px;
+    margin-top: -400px;
+    }
+
+    .container{
+    margin-top: -30px;
+    }
+
+    .one{
+    height: 30px;
+    width: 10px;
+    border-radius: 50%;
+    background-color: blue;
+    color: #fff;
+    /*border-left: 1px solid black;*/
+    }
+
+    .all{
+    margin-left: -122px;
+    
+    }
+
+    .row{
+    width: 100%;
+    margin-left: 20px;
+    font-size: x-large;
+    padding: 20px;
+    }
+
+    .button{
+    position: absolute;
+    width: 250px;
+    margin-top: -1px;
+    margin-left: 2px;
+    padding: 27px;
+    border: 0px;
+    border-radius: 50px;
+    background-color: black;
+    color: #fff;
+    }
+
+    .second-row{
+    padding: 20px;
+    margin-top: 10px;
+    }
+
+    .third-row{
+    margin-top: 500px;
+    }
+    
+    .together{
+        padding: 900px;
+    }
+    .col-md-6 span{
+        color: blue;
+    }
+    .me span{
+        color: blue;
+    }
+    .black{
+        width: 300px;
+        margin-top: 30px;
+        background-color: black;
+        color: #fff;
+        border-radius: 90px;
+        padding: 40px;
+        border: 0px;
+        margin-left: 30px;
+        position: relative;
+    }
+    .col-sm-4 span{
+        color: blue;
+    }
+    .col-sm-3{
+        color: navy;
+    }
+    .col-sm-2{
+        color: navy;
+    }
+    .col span{
+        color: blue;
+        margin-left: -15px;
+    }
+    .too{
+        margin-left: 499px;
+    }
+    .differ{
+        margin-left: 450px;
+    }
+    .midd{
+        margin-left: 550px;
+        background-color: black;
+        width: 150px;
+        color: #fff;
+        border-radius: 70px;
+        border: 2px solid black;
+        height: 60px
+    }
+    .none{
+        margin-top: 70px;
+        margin-left: 85px;
+    }
+    .again{
+        width: 200px;
+        color: #fff;
+        background-color: black;
+        border-radius: 80px;
+        border: 2px solid black;
+        margin-left: 458px;
+        height: 60px;
+    }
+    .two{
+        width: 200px;
+        color: #fff;
+        background-color: blue;
+        border-radius: 80px;
+        border: 2px solid blue;
+        margin-left: 10px;
+        height: 60px;
+    }
+    .three{
+        width: 200px;
+        color: black;
+        background-color: #fff;
+        border: 2px solid black;
+        border-radius: 80px;
+        margin-left: 20px;
+        height: 60px;
+    }
+    .team{
+        color: navy;
+        margin-left: 400px;
+        margin-top: 20px;
+    }
+    .wok{
+        color: navy;
+    }
+    .your{
+        color: navy;
+    }
+    .dif{
+        color: blue;
+        margin-left: 550px;
+        margin-top: 19px;
+    }
+    .learn{
+        color: blue;
+    }
+
+    
+
+    

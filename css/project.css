@@ -1,0 +1,28 @@
+.box{
+    background-color: orange;
+    height: 15vh;
+    text-align: center;
+    border-bottom: 1px solid grey;
+    font-size: 40px;
+}
+
+.second{
+    background-color: grey;
+    text-align: right;
+    color: #fff;
+    font-size: 60px;
+    height:20vh;
+    padding-top: 15px;
+}
+.fi{
+    background-color: whitesmoke;
+    height: 15vh;
+    text-align: center;
+    border-bottom: 1px solid grey;
+    border-right: 1px solid grey;
+    font-size: 40px;
+}
+.fff{
+    padding: 100px;
+}
+
